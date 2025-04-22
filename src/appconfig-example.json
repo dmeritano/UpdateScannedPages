@@ -1,0 +1,9 @@
+{
+  "dmsUri": "[URL API DMS]",
+  "dmsUser": "[USER DMS]",
+  "dmsPass": "[PASS DMS]",
+  "dmsQuery": "[QUERY DMS]",
+  "queryPageSize": 100,
+  "secondsBetweenProcessedDocuments": 0.1,
+  "sendEmailNotifications": true
+}
